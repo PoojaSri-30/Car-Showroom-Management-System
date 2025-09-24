@@ -1,25 +1,34 @@
 
 # Car Showroom Management System
-#This is a Java program that runs from the command line and helps manage the day-to-day activities of a car showroom.
-#It allows users to perform several important tasks, such as keeping track of the cars available, managing customer information, and handling the sale of cars.
 
-#Features
-#Car Management: You can add new cars to the showroom, view the list of cars, update details of existing cars, and remove cars that are no longer available.
+**Car Showroom Management System** is a Java-based command-line application designed to manage the daily operations of a car showroom. It helps showroom staff efficiently handle cars, customers, and sales transactions while providing useful reports for decision-making.
 
+## Features
 
-#Customer Management: You can add new customers to the system and keep a record of their information.
+### Car Management
+- Add new cars to the showroom inventory.
+- View the list of available cars.
+- Update details of existing cars.
+- Remove cars that are no longer available.
 
+### Customer Management
+- Add new customers and maintain their information.
+- Track customer details for sales and follow-ups.
 
-#Sales Transactions: The system lets you record when a car is sold to a customer and track all sales made.
+### Sales Transactions
+- Record the sale of cars to customers.
+- Maintain a history of all sales transactions.
 
+### Reporting
+- Generate reports to view current stock.
+- Track sales history for analysis and business decisions.
 
-#Reporting: You can create reports to see the history of sales and what cars are currently in stock.
+## Technologies Used
+- **Java** – Core Java programming language.
+- **Object-Oriented Programming (OOP)** – Structured using OOP concepts with separate classes for `Car`, `Customer`, `Sale`, and `Showroom` for maintainability and scalability.
 
-
-#Technologies Used
-#Core Java: The entire application is built using Java programming language.
-
-
-#Object-Oriented Programming (OOP): The program is organized using OOP concepts, with separate classes for Car, Customer, Sale, and Showroom.
-#This helps make the code easier to manage and expand in the future.
+## Benefits
+- Streamlines car showroom operations.
+- Provides clear records of inventory, customers, and sales.
+- Easy to extend and maintain due to modular OOP design.
 
